@@ -39,7 +39,7 @@
   "dependencies": {
     "funargs": "latest",
     "sugar": "latest",
-    "node-document-serializer": "latest",
+    "node-document-serializer": "0.1.0-pre1",
     "msgpack": "latest"
   },
   "devDependencies": {
