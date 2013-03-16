@@ -1,6 +1,7 @@
 {
   "name": "node-document-serializer-msgpack",
   "description": "Serializer adapter `msgpack` for `node-document` ODM for Node.js.",
+  "keywords": ["document", "odm", "object document mapper", "generic", "unified", "serializer", "serialization", "adapter", "msgpack", "messagepack"],
   "version": "0.1.0",
   "homepage": "https://github.com/grimen/node-document-serializer-msgpack",
   "repository": {
@@ -16,6 +17,7 @@
       "url": "https://github.com/grimen/node-document-serializer-msgpack/blob/MIT-LICENSE"
     }
   ],
+  "author": "Jonas Grimfelt <grimen@gmail.com>",
   "maintainers": [
     {
       "name": "Jonas Grimfelt",
